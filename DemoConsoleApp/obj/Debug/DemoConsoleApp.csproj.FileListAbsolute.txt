@@ -1,0 +1,6 @@
+C:\Work\Repos\LearnAsync\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe.config
+C:\Work\Repos\LearnAsync\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe
+C:\Work\Repos\LearnAsync\DemoConsoleApp\bin\Debug\DemoConsoleApp.pdb
+C:\Work\Repos\LearnAsync\DemoConsoleApp\obj\Debug\DemoConsoleApp.csprojResolveAssemblyReference.cache
+C:\Work\Repos\LearnAsync\DemoConsoleApp\obj\Debug\DemoConsoleApp.exe
+C:\Work\Repos\LearnAsync\DemoConsoleApp\obj\Debug\DemoConsoleApp.pdb
